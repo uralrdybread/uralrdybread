@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uralrdybread&label=Profile%20views&color=0e75b6&style=flat" alt="uralrdybread" /> </p>
 
-- 🌱 I’m currently learning **Ionic** **React**
+- 🌱 I’m currently learning **Ionic** and **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uralrdybread?tab=repositories](https://github.com/uralrdybread?tab=repositories)
 
