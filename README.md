@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uralrdybread&label=Profile%20views&color=0e75b6&style=flat" alt="uralrdybread" /> </p>
 
-- 🌱 I’m currently learning **Ionic** and **React**
+- 🌱 I’m currently learning **Laravel** and **MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uralrdybread?tab=repositories](https://github.com/uralrdybread?tab=repositories)
 
-- 💬 Ask me about **Angular**
-
+- 💬 Ask me about **Laravel**
 - 📫 How to reach me **douglas.rw@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
