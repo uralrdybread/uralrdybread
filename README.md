@@ -24,8 +24,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img <a href="https://getlogovector.com/tailwind-css-logo-vector-svg/" target="_blank"><img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" /></a> alt="tailwindcss" width="40" height="40"/>
+    <img <a href="https://getlogovector.com/tailwind-css-logo-vector-svg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a> alt="tailwindcss" width="40" height="40"/>
   </a></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uralrdybread&show_icons=true&locale=en&layout=compact" alt="uralrdybread" /></p>
 
